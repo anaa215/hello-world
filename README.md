@@ -1,2 +1,3 @@
 # hello-world
-Coding rookie, indeed
+Coding rookie, here. 
+Coffee and Wine lover. 
